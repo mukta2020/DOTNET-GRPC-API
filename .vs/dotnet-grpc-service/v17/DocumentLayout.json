@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My RND Project\\DOTNET-GRPC-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|d:\\my rnd project\\dotnet-grpc-api\\dotnet-grpc-service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|solutionrelative:dotnet-grpc-service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|d:\\my rnd project\\dotnet-grpc-api\\dotnet-grpc-service\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|solutionrelative:dotnet-grpc-service\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|d:\\my rnd project\\dotnet-grpc-api\\dotnet-grpc-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|solutionrelative:dotnet-grpc-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|d:\\my rnd project\\dotnet-grpc-api\\dotnet-grpc-service\\migrations\\20250102152121_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87E08F-B81E-44A6-A4A6-C545862AD1E0}|dotnet-grpc-service\\todo-grpc-service.csproj|solutionrelative:dotnet-grpc-service\\migrations\\20250102152121_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "dotnet-grpc-service\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "dotnet-grpc-service\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:58:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet-grpc-service\\Program.cs",
+              "ToolTip": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Program.cs",
+              "RelativeToolTip": "dotnet-grpc-service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:58:32.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250102152121_initalmigration.cs",
+              "DocumentMoniker": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Migrations\\20250102152121_initalmigration.cs",
+              "RelativeDocumentMoniker": "dotnet-grpc-service\\Migrations\\20250102152121_initalmigration.cs",
+              "ToolTip": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Migrations\\20250102152121_initalmigration.cs",
+              "RelativeToolTip": "dotnet-grpc-service\\Migrations\\20250102152121_initalmigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:58:04.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItems.cs",
+              "DocumentMoniker": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Models\\TodoItems.cs",
+              "RelativeDocumentMoniker": "dotnet-grpc-service\\Models\\TodoItems.cs",
+              "ToolTip": "D:\\My RND Project\\DOTNET-GRPC-API\\dotnet-grpc-service\\Models\\TodoItems.cs",
+              "RelativeToolTip": "dotnet-grpc-service\\Models\\TodoItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:57:56.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
